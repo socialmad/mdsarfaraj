@@ -1,0 +1,9 @@
+const String username = "MD Sarfaraj";
+const String linkedInURL = "https://www.linkedin.com/in/yourmdsarfaraj/";
+const String githubURL = "https://github.com/socialmad";
+const String twitterURL = "https://twitter.com/yourmdsarfaraj";
+const String instagramURL = "https://www.instagram.com/yourmdsarfaraj/";
+const String csharpcornerURL = "https://www.c-sharpcorner.com/members/md-sarfaraj";
+const String emailID = "yoursocialmd@gmail.com";
+const String tagline = "Flutter Developer & Tech Blogger";
+const String resumeURL = "https://www.c-sharpcorner.com/members/md-sarfaraj";
