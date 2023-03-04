@@ -6,4 +6,4 @@ const String instagramURL = "https://www.instagram.com/yourmdsarfaraj/";
 const String csharpcornerURL = "https://www.c-sharpcorner.com/members/md-sarfaraj";
 const String emailID = "yoursocialmd@gmail.com";
 const String tagline = "Flutter Developer & Tech Blogger";
-const String resumeURL = "https://www.c-sharpcorner.com/members/md-sarfaraj";
+const String resumeURL = "https://mdsarfaraj.com/resume/resume.pdf";
