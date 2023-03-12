@@ -1,4 +1,4 @@
-# MD Sarfaraj - https://mdsarfaraj.com/
+# MD Sarfaraj - https://mdsarfaraj.com
 
 
 Hello there,
