@@ -1,16 +1,11 @@
-# mdsarfaraj
+# MD Sarfaraj [(https://mdsarfaraj.com/)]
 
-A new Flutter project.
 
-## Getting Started
+Hello there,
 
-This project is a starting point for a Flutter application.
+Welcome to the repository of my portfolio website that I have developed using Flutter and Dart. This repository contains the source code of my portfolio website that you can use as a reference or clone to create your own portfolio website.
 
-A few resources to get you started if this is your first Flutter project:
+Thank you for visiting this repository, and I hope it proves to be helpful to you in your projects.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Best regards,
+MD Sarfaraj
